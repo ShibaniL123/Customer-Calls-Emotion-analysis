@@ -1,0 +1,16 @@
+Filename,Emotion,Satisfaction,Deception
+CallRecordings/trial_lie_0042.wav,fear,negative,lie
+CallRecordings/trial_lie_0026.wav,disgust,negative,lie
+CallRecordings/trial_lie_0061.wav,sad,negative,lie
+CallRecordings/trial_truth_0056.wav,disgust,positive,true
+CallRecordings/trial_lie_0044.wav,angry,negative,lie
+CallRecordings/trial_lie_0025.wav,angry,negative,lie
+CallRecordings/trial_truth_0057.wav,happy,negative,lie
+CallRecordings/trial_truth_0058.wav,neutral,negative,lie
+CallRecordings/trial_lie_0060.wav,happy,positive,true
+CallRecordings/trial_truth_0060.wav,happy,positive,true
+CallRecordings/trial_lie_0024.wav,happy,negative,lie
+CallRecordings/trial_lie_0043.wav,sad,negative,lie
+CallRecordings/trial_lie_0027.wav,angry,positive,true
+CallRecordings/trial_truth_0059.wav,disgust,positive,true
+CallRecordings/trial_lie_0045.wav,angry,negative,lie
